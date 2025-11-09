@@ -1,3 +1,6 @@
 read customer
 read april payment
 display bill
+read discount %
+bill=bill-discount
+print revised
