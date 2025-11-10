@@ -1,3 +1,8 @@
 read customer
 read april payment
 display bill
+read discount %
+bill = bill-discount
+print revised 
+read privilege
+revice hotel plans/offers
